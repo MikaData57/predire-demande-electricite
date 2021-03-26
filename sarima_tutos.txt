@@ -1,0 +1,9 @@
+https://www.kaggle.com/poiupoiu/how-to-use-sarimax
+http://barnesanalytics.com/sarima-models-using-statsmodels-in-python
+
+https://towardsdatascience.com/time-series-forecasting-with-a-sarima-model-db051b7ae459
+
+https://www.codeflow.site/fr/article/a-guide-to-time-series-forecasting-with-arima-in-python-3
+
+Facebook Prophet
+https://facebook.github.io/prophet/

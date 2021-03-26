@@ -1,0 +1,11 @@
+# Ignorer le dossier ipynb_checkpoints
+/.ipynb_checkpoints
+/slides
+/__pycache__
+
+#Ignorer les pdf
+*.pdf
+*.rar
+*.zip
+sarima_tuto.txt
+
